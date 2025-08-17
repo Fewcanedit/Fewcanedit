@@ -75,21 +75,10 @@
     <p>Whether you're a creator needing stunning edits or a video editor looking for projects, FewCanEdit is your hub.</p>
 
     <div class="buttons">
-      <a href="#hire">Hire an Editor</a>
-      <a href="#join">Join as an Editor</a>
+      <!-- Replace the links below with your actual WhatsApp/Telegram group links -->
+      <a href="https://chat.whatsapp.com/CLIENTGROUPLINK" target="_blank">Hire an Editor</a>
+      <a href="https://chat.whatsapp.com/EDITORGROUPLINK" target="_blank">Join as an Editor</a>
     </div>
-  </div>
-
-  <div class="section" id="hire">
-    <h2>For Clients</h2>
-    <p>Post your video editing project and connect with skilled editors. From YouTube edits to wedding highlights, get it all done here.</p>
-    <a href="https://forms.gle/" target="_blank">Post a Project (Google Form)</a>
-  </div>
-
-  <div class="section" id="join">
-    <h2>For Editors</h2>
-    <p>Showcase your skills and get projects from clients across India. Build your portfolio and grow with FewCanEdit.</p>
-    <a href="https://forms.gle/" target="_blank">Register as an Editor</a>
   </div>
 
   <footer>
